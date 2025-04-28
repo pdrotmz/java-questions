@@ -1,0 +1,2 @@
+1. Write a Java program that prints all even numbers between 1 and 100.
+(Tip: Use a for loop and % operator.)
