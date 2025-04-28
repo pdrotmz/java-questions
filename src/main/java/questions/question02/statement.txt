@@ -1,0 +1,2 @@
+2. Create a Java method that takes two integers and returns their greatest common divisor (GCD).
+(Tip: You can use the Euclidean Algorithm.)
